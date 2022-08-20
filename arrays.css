@@ -9,11 +9,17 @@
 #arrays {
     color: blue
 }
+.buttons{
+    display: flex;
+    gap: 20px;
+}
 .button {
     width: 100px;
     height: 50px;
     background-color: blueviolet;
     color: white;
     margin-bottom: 30px;
+    border: none;
+    border-radius: 8px;
 }
 
