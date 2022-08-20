@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+#arrays {
+    color: blue
+}
+.button {
+    width: 100px;
+    height: 50px;
+    background-color: blueviolet;
+    color: white;
+    margin-bottom: 30px;
+}
+
